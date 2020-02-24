@@ -1,0 +1,11 @@
+.formulario {
+  border: 2px dashed rgb(21, 87, 36);
+}
+
+.formulario, input[type='text']:checked {
+  border: none;
+}
+
+.intro {
+  border: 2px solid rgb(21, 87, 36);
+}
